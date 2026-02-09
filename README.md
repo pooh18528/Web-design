@@ -21,7 +21,7 @@ A premium, modern landing page for an AI-powered creative studio. Built with **R
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aura-ai-studio.git
+   git clone https://github.com/pooh18528/Web-design.git
    ```
 2. Install dependencies:
    ```bash
