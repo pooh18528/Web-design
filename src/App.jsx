@@ -40,7 +40,9 @@ function Footer() {
         </div>
 
         <div className="flex justify-between items-center" style={{ borderTop: '1px solid rgba(255,255,255,0.05)', paddingTop: '2rem' }}>
-          <p style={{ color: '#64748b', fontSize: '0.875rem' }}>© 2024 Aura AI Studio. All rights reserved.</p>
+          <p style={{ color: '#64748b', fontSize: '0.875rem' }}>
+            © 2024 Built with ❤️ by <span style={{ color: '#9333ea', fontWeight: 600 }}>pooh18528</span> & <span style={{ color: '#06b6d4', fontWeight: 600 }}>animegirls18528</span>
+          </p>
           <div className="flex gap-6">
             <a href="#" style={{ color: '#94a3b8' }}><Twitter size={20} /></a>
             <a href="#" style={{ color: '#94a3b8' }}><Github size={20} /></a>

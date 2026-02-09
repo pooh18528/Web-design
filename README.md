@@ -42,5 +42,9 @@ A premium, modern landing page for an AI-powered creative studio. Built with **R
 ## 📄 License
 MIT License - feel free to use this for your own projects!
 
+## 👥 Contributors
+- **pooh18528** - Lead Developer & UI Designer
+- **animegirls18528** - Core Logic & Component Architect
+
 ---
 Created with ❤️ for LinkedIn & GitHub Showcase.
