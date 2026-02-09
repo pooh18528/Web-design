@@ -48,3 +48,5 @@ MIT License - feel free to use this for your own projects!
 
 ---
 Created with ❤️ for LinkedIn & GitHub Showcase.
+
+Built with ❤️ by pooh18528 & animegirls18528
