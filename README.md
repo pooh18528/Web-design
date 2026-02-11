@@ -2,7 +2,7 @@
 
 A premium, modern landing page for an AI-powered creative studio. Built with **React**, **Framer Motion**, and **Standard CSS** to demonstrate high-level UI/UX principles.
 
-![Preview](https://via.placeholder.com/1200x600/030014/9333ea?text=Aura+AI+Studio+Premium+Interface)
+
 
 ## ✨ Features
 
