@@ -1,3 +1,5 @@
+### [English](README.md) | [ไทย](README_TH.md)
+
 # 🌌 Aura AI Studio - High-End SaaS Landing Page
 
 A premium, modern landing page for an AI-powered creative studio. Built with **React**, **Framer Motion**, and **Standard CSS** to demonstrate high-level UI/UX principles.
